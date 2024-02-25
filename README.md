@@ -1,5 +1,6 @@
-
 #Rainbow
+
+
 [M. Hessel et al., "Rainbow: Combining Improvements in Deep Reinforcement Learning." arXiv preprint arXiv:1710.02298, 2017.](https://arxiv.org/pdf/1710.02298.pdf)
 We will integrate all the following seven components into a single integrated agent, which is called Rainbow!
 1. DQN2.
