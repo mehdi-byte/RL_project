@@ -8,4 +8,4 @@ We will integrate all the following seven components into a single integrated ag
 5. Noisy Network6.
 6. Categorical DQN
 7.  N-step Learning
-8.  This method shows an impressive performance on the Atari 2600 benchmark, both in terms of data efficiency and final performance.![rainbow](https://user-images.githubusercontent.com/14961526/60591412-61748100-9dd9-11e9-84fb-076c7a61fbab.png)
+This method shows an impressive performance on the Atari 2600 benchmark, both in terms of data efficiency and final performance.![rainbow](https://user-images.githubusercontent.com/14961526/60591412-61748100-9dd9-11e9-84fb-076c7a61fbab.png)
